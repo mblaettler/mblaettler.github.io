@@ -33,7 +33,7 @@ sofort__ deine Wahlunterlagen hervor.
 
 Wir wählen den __Kantonsrat__, sowie den __Regierungsrat__. 
 
-#### Regierungsrat
+### Regierungsrat
 
 Ist die Exekutive, also der "Bundesrat" des Kantons. Er regiert den Kanton auf Basis der
 vom Regierungsrat beschlossenen Gesetze. Jeder Regierungsrat ist Vorsitzender eines
@@ -115,13 +115,16 @@ Auch die Smartspider der Kandidaten für den Regierungsrat findest du auf
 [smartvote](https://smartvote.ch/19_lu_exe/search/candidates) (klicke auf Suchen um
 alle möglichen Kandidaten aufzuzeigen).
 
+Siehe Kapitel [Wie kann ich wählen](#wie-kann-ich-wählen) unten für eine Erklärung
+wie du wählen kannst.
+
 ### Ausführliche Variante (Zeitbedarf: 30 -45 Minuten)
 
 Auf [smartvote](https://smartvote.ch/19_lu_leg/election/index) kannst du durch beantworten
 30 respektive 50 Fragen dein persönlicher Smartspider erstellen. Dieser wird anschliessend
 automatisch mit den Smartspider der Kandidaten verglichen um dir die optimale Wahl anzuzeigen.
 
-Siehe Kapitel "Wie kann ich wählen" unten für eine ausführliche Erklärung.
+Siehe Kapitel [Wie kann ich wählen](#wie-kann-ich-wählen) unten für eine ausführliche Erklärung.
 
 #### Regierungsrat
 
@@ -166,27 +169,34 @@ erhalten haben. Deshalb darfst du einer Person auch zwei Stimmen geben.
 
 ## Wie kann ich wählen?
 
+### Kantonsrat
+
 Du kannst natürlich eine Liste nehmen und diese eins zu eins wählen. Falls es auf dieser Liste aber
 Personen hat, die du nicht wählen möchtest (bspw. weil sie Ansichten haben die dir nicht passen),
 hast du die Möglichkeit zu __streichen__, __panaschieren__ oder __kummulieren__.
 
-### Streichen
+#### Streichen
 
 Du kannst eine Person streichen. Diese Person erhält keine Stimme.
 
-### Panaschieren
+#### Panaschieren
 
 Falls du die Liste von Partei X gewählt hast aber Hansli Müsterli von Partei Y wählen möchtest,
 kannst du Hansli Müsterli von Partei Y auf deine Liste von Partei X schreiben. So erhält
 Hansli Müsterli eine Stimme. Du darfst aber niemals mehr als 30 Personen auf deiner Liste haben.
 Du kannst auch Personen streichen und stattdessen Hansli Müsterli aufschreiben.
 
-### Kummulieren
+#### Kummulieren
 
 Falls dir eine Person auf derselben Liste sympathisch ist, kannst du diese zwei Mal auf deine
 Liste schreiben. Du darfst aber niemals mehr als 30 Personen auf deiner Liste haben und einer
 Person nicht mehr als zwei Stimmen geben. Auch hier hast du die Möglichkeit eine Person zu
 streichen und dafür eine andere ein zweites Mal auf deine Liste zu setzen.
+
+### Regierungsrat
+
+Nimm die Blankoliste und schreibe diese Personen auf, welche deine Interessen am Besten vertreten.
+Du kannst nicht mehr als 5 Personen wählen.
 
 ## Fertig
 
